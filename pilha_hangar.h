@@ -20,6 +20,7 @@ struct lista_pilha{
 };
 
 
+
 Pilha_Hangar* cria_pilha(){
     Pilha_Hangar* p = (Pilha_Hangar*) malloc (sizeof(Pilha_Hangar));
     p->prim = NULL;
@@ -56,10 +57,10 @@ void listaAviaoHangar(Pilha_Hangar * p){
     aux = p->prim;
     printf ("--------------AVIOES NO HANGAR-----------------\n");
     while (aux != NULL){
-        printf ("Indice: %d\n", aux->id);
-        printf ("Nome do aviao: %s\n", aux->nome_aviao);
-        printf ("Sigla: %s\n", aux->sigla);
-        printf ("Empresa: %s\n\n", aux->empresa);
+        printf ("Indice:  %d |\t", aux->id);
+        printf ("Nome do aviao: %s |\t ", aux->nome_aviao);
+        printf ("Sigla: %s |\t", aux->sigla);
+        printf ("Empresa: %s |\n", aux->empresa);
 		aux = aux ->prox;
     }
 }
@@ -74,15 +75,15 @@ void pilhaLibera (Pilha_Hangar* p){
     free(p);
 }
 
-void pilhaInverte(Pilha_Hangar *p){
-	Lista_Hangar* auxL;
-	Pilha_Hangar *auxPilha = cria_pilha();
-	auxL = p->prim;
-	while (auxL != NULL){
-		addAviaoHangar(auxPilha, auxL->id, auxL->nome_aviao, auxL->sigla, auxL->empresa);
-		strcpy(auxL->id;)
-		auxL= auxL->prox;
+Pilha_Hangar *pilhaInverte(Pilha_Hangar *p){
+	Pilha_Hangar *auxP = cria_pilha();
+	Lista_Hangar *aux;
+	aux = p->prim;
+	while (aux != NULL){
+		addAviaoHangar(auxP, aux->id, aux->nome_aviao, aux->sigla, aux->sigla);
+		aux = aux -> prox;
 	}
+	return auxP;
 }
 
 
@@ -92,7 +93,7 @@ void salvaHangar(Pilha_Hangar* p){
 	if ((txt_hangar = fopen ("Avioes-Hangar.txt", "w+"))== NULL){
 		printf ("Erro ao abrir o arquivo\n");
 	} else {
-		pilhaInverte(p);
+		p = pilhaInverte(p);
 		Lista_Hangar* aux;
 		aux = p->prim;
 		while (aux !=NULL){

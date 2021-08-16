@@ -53,9 +53,9 @@ void listaAviaoSolo(Fila_Voo *f){
     printf ("---------------AVIOES NO SOLO-----------------\n");
 
     while (aux != NULL){
-        printf ("Nome do aviao: %s\n", aux->nome_aviao);
-        printf ("Sigla: %s\n", aux->sigla);
-        printf ("Empresa: %s\n\n", aux->empresa);
+        printf ("Nome do aviao: %s |\t", aux->nome_aviao);
+        printf ("Sigla: %s |\t", aux->sigla);
+        printf ("Empresa: %s \t \n", aux->empresa);
         aux = aux->prox;
     }
   
@@ -91,6 +91,7 @@ void salvaSolo(Fila_Voo* f){
 			aux = aux->prox;
 		}
 	}
+	fclose(txt_solo);
 }
 
 

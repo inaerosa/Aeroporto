@@ -1,0 +1,12 @@
+1|   Douglas DC-3   |   DAA   |   DAA   | 
+2|   BEECHCRAFT HAWKER 200   |   BBT   |   BBT   | 
+3|   BEECHCRAFT MODEL 18   |   BCT   |   BCT   | 
+4|   Airbus 330   |   ADG   |   ADG   | 
+5|   Boeing 707   |   BEA   |   BEA   | 
+6|   Douglas DC-3   |   DFA   |   DFA   | 
+7|   BEECHCRAFT HAWKER 200   |   BGT   |   BGT   | 
+8|   BEECHCRAFT MODEL 18   |   BHT   |   BHT   | 
+9|   Airbus 330   |   AIG   |   AIG   | 
+10|   Boeing 707   |   BJA   |   BJA   | 
+11|  aviao  |  aviao  |  aviao  | 
+11|  aviao  |  aviao  |  aviao  | 

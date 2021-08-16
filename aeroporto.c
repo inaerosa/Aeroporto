@@ -12,13 +12,8 @@ int main(){
     Fila_Voo* f = cria_fila();
 
     Pilha_Hangar* p = cria_pilha();
-    
-  
 
     Lista_Passageiros* l = cria_lista();
-
-	
-
 	
 	carregaHangar(p);
 	carregaSolo(f);
@@ -80,7 +75,8 @@ int main(){
         break;
         case 5:
         	printf ("---------------ADICAO DE AVIAO NO HANGAR---------------\n");
-
+			printf ("Informe o codigo do aviao: ");
+			scanf ("%d", &codigo);
         	printf ("Informe o nome do aviao: ");
         	scanf ("%s", nome );
         	printf ("Informe a sigla do aviao: ");
@@ -89,7 +85,6 @@ int main(){
         	scanf ("%s", empresa);
         	printf ("\n");
         	printf("-------------------------------------------------------\n");
-        	codigo=11;
         	addAviaoHangar(p, codigo, nome, sigla, empresa);
             system("pause");
 			system("cls");
@@ -108,6 +103,7 @@ int main(){
         	printf ("-----------------ADICAO DE PASSAGEIROS-----------------\n");
         	printf ("Informe o codigo do passageiro: ");
         	scanf ("%d", &codigo);
+        	verificaPassageiro(l, codigo);
         	printf ("Informe o nome do passageiro: ");
         	scanf ("%s", nome);
         	printf ("Informe a idade do passageiro: ");
@@ -115,7 +111,7 @@ int main(){
      
         	printf ("\n");
         	printf("-------------------------------------------------------\n");
-            l = addPassageiro(l, codigo, nome, idade);
+            l = addPassageiro(l,  codigo, nome, idade);
             system("pause");
 			system("cls");
         break;
@@ -127,9 +123,6 @@ int main(){
             system("pause");
 			system("cls");
         break;
-		case 10:
-			pilhaInverte(p);
-		break;
     	}
     
     	

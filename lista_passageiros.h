@@ -5,7 +5,6 @@
 
 typedef struct lista Lista_Passageiros;
 
-//struct de passageiros
 struct lista{
     int id;
     char nome_passageiro[TEXT_MAX];
@@ -58,13 +57,27 @@ Lista_Passageiros * addPassageiro(Lista_Passageiros * l, int id, char nome[], in
     
 }
 
+int verificaPassageiro(Lista_Passageiros *l, int codigo){
+	
+	Lista_Passageiros * aux;
+	
+	for (aux = l; aux != NULL; aux = aux->proximo){
+		if (codigo == aux->id){
+			printf ("Atencao, codigo já está em uso!\n ");
+			printf ("Informe outro codigo: ");
+			scanf ("%d", &codigo);
+		}
+	}
+	return codigo;
+}
+
 void listaPassageiros(Lista_Passageiros *l){
     Lista_Passageiros * aux;
  printf ("--------------LISTA DE PASSAGEIROS-----------------\n");
     for (aux = l; aux!=NULL; aux = aux->proximo){
-        printf ("Codigo: %d\n", aux->id);
-        printf("Idade: %d\n", aux->idade);
-        printf ("Nome do passageiro: %s\n\n", aux->nome_passageiro);
+        printf ("Codigo: %d | \t", aux->id);
+        printf("Idade: %d | \t", aux->idade);
+        printf ("Nome do passageiro: %s | \t\n", aux->nome_passageiro);
     }
 
 }

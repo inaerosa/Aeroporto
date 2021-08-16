@@ -1,0 +1,108 @@
+77	|			Stella		Luan			|	94
+72	|			Laís		Pedro Lucas			|	90
+73	|			Ayla		Davi Miguel			|	90
+71	|			Maya		Nathan			|	89
+70	|			Maria Vitória		Davi Luiz			|	88
+66	|			Allana		Henry			|	85
+65	|			Maria Flor		Thomas			|	84
+64	|			Mirella		Victor Hugo			|	83
+62	|			Bianca		Thiago			|	82
+63	|			Larissa		Ian			|	82
+61	|			Maria Helena		Enrico			|	81
+60	|			Milena		Yuri			|	80
+59	|			Maria Valentina		Levi			|	79
+57	|			Maria Fernanda		Otávio			|	78
+56	|			Olívia		Kaique			|	77
+55	|			Vitória		Francisco			|	76
+54	|			Ana Beatriz		Luiz Miguel			|	75
+78	|			Ana		Erick			|	75
+52	|			Catarina		João Gabriel			|	74
+53	|			Clara		João Victor			|	74
+83	|			Maria Heloísa		Arthur Gabriel			|	74
+51	|			Ana Laura		Noah			|	73
+50	|			Gabriela		Davi Lucas			|	72
+49	|			Maria-		João Guilherme			|	71
+84	|			Maria Sophia		Breno			|	71
+47	|			Agatha		Emanuel			|	70
+48	|			Letícia		Vinícius			|	70
+46	|			Rebeca		Caio			|	69
+45	|			Luna		Bento			|	68
+79	|			Gabrielly		Martin			|	68
+44	|			Alícia		Gael			|	67
+85	|			Fernanda		Kauê			|	67
+42	|			Maitê		Vicente			|	66
+43	|			Isis		Caleb			|	66
+41	|			Nicole		Antônio			|	65
+40	|			Marina		Cauã			|	64
+39	|			Liz		João			|	63
+37	|			Rafaela		João Lucas			|	62
+38	|			Maria Cecília		Victor			|	62
+36	|			Antonella		Eduardo			|	61
+35	|			Elisa		Bryan			|	60
+34	|			Sarah		Davi Lucca			|	59
+32	|			Lavínia		Anthony			|	58
+33	|			Esther		Leonardo			|	58
+31	|			Isabelly		Daniel			|	57
+30	|			Maria Alice		Benício			|	56
+29	|			Yasmin		Isaac			|	55
+27	|			Ana Clara		Felipe			|	54
+28	|			Melissa		João Pedro			|	54
+89	|			Aurora		Luiz Otávio			|	54
+26	|			Ana Luiza		Lucca			|	53
+80	|			Sophie		Bruno			|	53
+25	|			Ana Júlia		Pietro			|	52
+24	|			Emanuelly		Pedro Henrique			|	51
+90	|			Maria Isis		Carlos Eduardo			|	51
+22	|			Isadora		Gustavo			|	50
+23	|			Mariana		Murilo			|	50
+21	|			Maria Júlia		Henrique			|	49
+20	|			Lara		João Miguel			|	48
+81	|			Carolina		Rodrigo			|	48
+91	|			Louise		Tomás			|	48
+19	|			Eloá		Enzo Gabriel			|	47
+17	|			Maria Clara		Joaquim			|	46
+18	|			Cecília		Samuel			|	46
+2	|			Sophia		Arthur			|	45
+3	|			Helena		Bernardo			|	45
+16	|			Beatriz		Rafael			|	45
+15	|			Maria Eduarda		Guilherme			|	44
+92	|			Heloise		Lucas Gabriel			|	44
+14	|			Giovanna		Nicolas			|	43
+12	|			Lorena		Lucas			|	42
+13	|			Lívia		Benjamin			|	42
+102	|		 Marcelo Acosta 		|	42
+11	|			Maria Luiza		Matheus			|	41
+93	|			Ana Vitória		André			|	41
+5	|			Laura		Davi			|	40
+10	|			Luiza		Enzo			|	40
+9	|			Heloísa		Gabriel			|	39
+103	|		 Adriano Romildo 		|	39
+105	|		 João Pedro Silva 		|	39
+105	|		 João Pedro Silva 		|	39
+7	|			Manuela		Théo			|	38
+8	|			Júlia		Pedro			|	38
+94	|			Ana Cecília		José			|	38
+6	|			Isabella		Lorenzo			|	37
+98	|			Antônia		Ruan			|	36
+95	|			Ana Liz		Yago			|	34
+82	|			Maria Laura		Luiz Gustavo			|	33
+101	|		 Douglas Machgator 		|	33
+96	|			Joana		Danilo			|	31
+104	|		 Tiago Michigan			|	28
+88	|			Amanda		Arthur Henrique			|	27
+99	|			Isabel		Miguel Henrique			|	24
+1	|			Alice		Miguel			|	23
+86	|			Malu		Enzo Miguel			|	22
+87	|			Analu		Fernando			|	21
+102	|		inae		|	21
+4	|			Valentina		Heitor			|	19
+97	|			Luana		Anthony Gabriel			|	19
+76	|			Mariah		Luiz Henrique			|	17
+75	|			Eduarda		Pedro Miguel			|	16
+100	|			Bruna		Oliver			|	12
+74	|			Ana Lívia		Raul			|	11
+58	|			Emilly		Augusto			|	10
+67	|			Ana Sophia		Luiz Felipe			|	5
+68	|			Clarice		Ryan			|	4
+68	|			Clarice		Ryan			|	4
+69	|			Pietra		Arthur Miguel			|	4

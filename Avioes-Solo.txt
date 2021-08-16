@@ -1,0 +1,7 @@
+Boeing 747   |   BAG   |   Gol   | 
+Airbus 380   |   ABG   |   GOL   | 
+Airbus 320   |   ACA   |   Azul  | 
+Airbus 321   |   ADA   |   Azul  | 
+Boeing 707   |   BEG   |   Gol   | 
+aviao  |  aviao  |  aviao  | 
+aviao  |  aviao  |  aviao  | 
